@@ -1,3 +1,3 @@
 # randomChoicePicker
 
-##Ready to be deployed
+Ready to be deployed
